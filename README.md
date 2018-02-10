@@ -2,7 +2,7 @@
 Triangle
 
 
-Class ID: 
+Class ID: Corphis
 
 SRS ID: CST116SRS04
 
